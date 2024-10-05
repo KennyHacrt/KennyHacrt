@@ -1,24 +1,3 @@
-name: GitHub Pages
-
-on:
-  push:
-    branches:
-      - main  # Change this to your default branch if it's not 'main'
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.GH_TOKEN }}  # Use your secret for authentication
-
-      - name: Generate Snake Game
-        uses: Platane/snk@v3.2.0
-
-      - name: Run GitHub Pages Action
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          token: ${{ secrets.GH_TOKEN }}  # Use your secret for authentication
+- name: generate-snake-game-from-github-contribution-grid
+uses: Platane/snk@v3.2.0
+            
