@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **OOP, data structures and algorithms, and pandas**
 
-💬 Ask me about **Python, ... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Python, ... or anything [here](https://github.com/KennyHacrt/KennyHacrt/issues)**
 
 ⚡ I’d love to be invited to **any interesting projects you have!**
 
