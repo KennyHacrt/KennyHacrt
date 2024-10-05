@@ -12,11 +12,11 @@
  
  🔭 I’m currently working on **a proposal for projects that benefit our community**
  
- 🌱 I’m currently learning **OOP, Data structure and algorithms, panda**
+ 🌱 I’m currently learning **OOP, data structures and algorithms, and pandas**
 
 💬 Ask me about **Python, ... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-⚡ Invite me to **Any interesting project you have**
+⚡ I’d love to be invited to **any interesting projects you have!**
 
  </div>
  
