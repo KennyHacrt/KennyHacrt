@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:leekenny746@gmail.com">
+  <a href="mailto:lee.mh.kenny@gmail.com ">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/ming-hin-lee-31a10331b" target="_blank">
