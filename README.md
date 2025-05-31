@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a proposal for projects that benefit our community**
  
- 🌱 I’m currently learning **OOP, data structures and algorithms, and pandas**
+ 🌱 I’m currently learning **Machine Learning Algorithms**
 
 💬 Ask me about **Python, ... or anything [here](https://github.com/KennyHacrt/KennyHacrt/issues)**
 
